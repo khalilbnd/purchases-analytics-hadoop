@@ -1,7 +1,7 @@
 
 ---
 
-## Project Title: Purchase Analytics with Hadoop MapReduce
+## Purchase Analytics with Hadoop MapReduce
 
 ### Overview:
 
